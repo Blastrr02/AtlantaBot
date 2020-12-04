@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "",
 	/* For the support server */
 	support: {
 		id: "765410402334670858", // The ID of the support server
@@ -16,7 +16,7 @@ module.exports = {
 		expressSessionPassword: "XXXXXXXXXXX", // Express session password (it can be what you want)
 		failureURL: "https://axiosbot.xyz" // url on which users will be redirected if they click the cancel button (discord authentication)
 	},
-	mongoDB: "mongodb://localhost:27017/AxiosBot", // The URl of the mongodb database
+	mongoDB: "mongodb://localhost:8080/AxiosBot", // The URl of the mongodb database
 	prefix: "$", // The default prefix for the bot
 	/* For the embeds (embeded messages) */
 	embed: {
