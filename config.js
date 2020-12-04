@@ -9,7 +9,7 @@ module.exports = {
 	/* Dashboard configuration */
 	dashboard: {
 		enabled: false, // whether the dashboard is enabled or not
-		secret: "XXXXXXXXXXX", // Your discord client secret
+		secret: "lnzQzU9AveDpc-T9cH_Ki6Qd7GsSkER-", // Your discord client secret
 		baseURL: "https://dashboard.axiosbot.xyz", // The base URl of the dashboard
 		logs: "784424664377327657", // The channel ID of logs
 		port: 8080, // Dashboard port
