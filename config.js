@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "",
+	token: "NzU3NDY2NTIxNDA3NzE3Mzg2.X2gzqw.S4nl7B5uJUVps-tkq14myCAVlhg",
 	/* For the support server */
 	support: {
 		id: "765410402334670858", // The ID of the support server
@@ -13,8 +13,8 @@ module.exports = {
 		baseURL: "https://dashboard.axiosbot.xyz", // The base URl of the dashboard
 		logs: "784424664377327657", // The channel ID of logs
 		port: 8080, // Dashboard port
-		expressSessionPassword: "XXXXXXXXXXX", // Express session password (it can be what you want)
-		failureURL: "https://axiosbot.xyz" // url on which users will be redirected if they click the cancel button (discord authentication)
+		expressSessionPassword: "Fortnite+100", // Express session password (it can be what you want)
+		failureURL: "https://www.axiosbot.xyz" // url on which users will be redirected if they click the cancel button (discord authentication)
 	},
 	mongoDB: "mongodb://localhost:8080/AxiosBot", // The URl of the mongodb database
 	prefix: "$", // The default prefix for the bot
@@ -36,17 +36,14 @@ module.exports = {
 	},
 	/* The API keys that are required for certain commands */
 	apiKeys: {
-		// BLAGUE.XYZ: https://blague.xyz/
+
 		blagueXYZ: "9hmQSUrayDusYrLry-gN6jOPCwUrJvzTj1P3lwUFRgM0CCAdzb-_5RV_9AP8gepF",
-		
-		// FORTNITE FNBR: https://fnbr.co/api/docs
+			
 		fortniteFNBR: "cad71050-f7ca-45ee-a77b-59d13afa547a",
-		// DBL: https://discordbots.org/api/docs#mybots
+		
 		dbl: "XXXXXXXXXXX",
-		// AMETHYSTE: https://api.amethyste.moe
-		amethyste: "9df7c78a0e33ad994c9b17bfc2cde6a83a0265e2ce21ebfcc07fe97a9f5b78dc2ebf36039c3a9cf607575435891932c72968d014036ebf066608bfc4bed938a6",
-		// SENTRY: https://sentry.io (this is not required and not recommended - you can delete the field)
-		sentryDSN: "98c453dfbc7e466db8b7ee9dc4d55ad9b809e110f1124914b3b55225816052bd"
+
+		amethyste: "9df7c78a0e33ad994c9b17bfc2cde6a83a0265e2ce21ebfcc07fe97a9f5b78dc2ebf36039c3a9cf607575435891932c72968d014036ebf066608bfc4bed938a6"
 	},
 	/* The others utils links */
 	others: {
