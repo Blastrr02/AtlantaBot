@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "NzU3NDY2NTIxNDA3NzE3Mzg2.X2gzqw.S4nl7B5uJUVps-tkq14myCAVlhg",
+	token: "",
 	/* For the support server */
 	support: {
 		id: "765410402334670858", // The ID of the support server
@@ -41,7 +41,7 @@ module.exports = {
 			
 		fortniteFNBR: "cad71050-f7ca-45ee-a77b-59d13afa547a",
 		
-		dbl: "XXXXXXXXXXX",
+		dbl: "",
 
 		amethyste: "9df7c78a0e33ad994c9b17bfc2cde6a83a0265e2ce21ebfcc07fe97a9f5b78dc2ebf36039c3a9cf607575435891932c72968d014036ebf066608bfc4bed938a6"
 	},
